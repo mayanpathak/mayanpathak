@@ -4,16 +4,6 @@ Software Engineer — CS 2026 grad focused on Rust backend systems, distributed 
 
 ---
 
-## Featured Projects
-
-| Project | What it does | Tech | Link |
-|---|---|---|---|
-| **crypto-exchange** | Production-grade event-driven cryptocurrency exchange — matching engine, Redis message bus, WebSocket feeds, async PostgreSQL persistence | Rust, Axum, Redis, Diesel, PostgreSQL, Warp | [Repository](https://github.com/mayanpathak/crypto-exchange) |
-| **Promptoanime** | Distributed prompt-to-animation platform — natural language → Manim video via AI code generation, Docker sandboxing, and async job queue | Rust, Axum, Tokio, Redis, MongoDB, Gemini API, Docker | [Repository](https://github.com/mayanpathak/Prompttoanimation) |
-| **Sellify** | No-code checkout page SaaS — Stripe-branded checkout builder, webhook automations, Redis queues, Zapier and Google Sheets integrations | Next.js, Node.js, Redis, Stripe | [Repository](https://github.com/mayanpathak/sellify) |
-| **CodeCollab** | Real-time collaborative code editor with multi-user editing, AI code assistance, and syntax highlighting | React, Node.js, WebSockets | [Repository](https://github.com/mayanpathak/newcodecollab) |
-
----
 
 ## All Projects
 
@@ -30,6 +20,25 @@ Software Engineer — CS 2026 grad focused on Rust backend systems, distributed 
 - Anime Recommender — AI-powered mood-based anime recommendation engine with adaptive personalisation
 
 ---
+
+
+
+
+
+
+
+## Featured Projects
+
+| Project | What it does | Tech | Link |
+|---|---|---|---|
+| **crypto-exchange** | Production-grade event-driven cryptocurrency exchange — matching engine, Redis message bus, WebSocket feeds, async PostgreSQL persistence | Rust, Axum, Redis, Diesel, PostgreSQL, Warp | [Repository](https://github.com/mayanpathak/crypto-exchange) |
+| **Promptoanime** | Distributed prompt-to-animation platform — natural language → Manim video via AI code generation, Docker sandboxing, and async job queue | Rust, Axum, Tokio, Redis, MongoDB, Gemini API, Docker | [Repository](https://github.com/mayanpathak/Prompttoanimation) |
+| **Sellify** | No-code checkout page SaaS — Stripe-branded checkout builder, webhook automations, Redis queues, Zapier and Google Sheets integrations | Next.js, Node.js, Redis, Stripe | [Repository](https://github.com/mayanpathak/sellify) |
+| **CodeCollab** | Real-time collaborative code editor with multi-user editing, AI code assistance, and syntax highlighting | React, Node.js, WebSockets | [Repository](https://github.com/mayanpathak/newcodecollab) |
+
+---
+
+
 
 ## Tech Stack
 
