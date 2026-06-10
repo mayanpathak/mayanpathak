@@ -10,7 +10,16 @@ Software Engineer — CS 2026 grad focused on Rust backend systems, distributed 
 ### Rust
 
 - [crypto-exchange](https://github.com/mayanpathak/crypto-exchange) — Multi-crate workspace: Axum REST API, in-memory price-time priority matching engine, Warp WebSocket server, Diesel/PostgreSQL persistence, Redis pub/sub message bus with per-request correlation channels
+
+
 - [Promptoanime](https://github.com/mayanpathak/Prompttoanimation) — Async distributed rendering backend: Axum API server + Tokio worker binary, Redis LPUSH/BRPOP job queue, Gemini API code generation, Docker-sandboxed Manim rendering, MongoDB job state machine
+
+  
+- [WarpBench](https://github.com/mayanpathak/WrapBench) — Distributed async HTTP load-testing CLI: zero-copy lifetime-annotated YAML parsing, thousands of concurrent virtual users via Tokio, lock-free Arc/Atomic metrics, mpsc aggregator, broadcast shutdown, spawn_blocking percentile reports
+  
+
+- [Live Attendance System](https://github.com/mayanpathak/WebSocket-Based-Live-Attendance-System) — Real-time attendance tracking backend: Axum + WebSockets, JWT auth with custom FromRequestParts extractor, tokio::sync::Mutex shared session state, mpsc-per-client broadcast pattern, MongoDB persistence
+
 
 ### MERN / Full Stack
 
